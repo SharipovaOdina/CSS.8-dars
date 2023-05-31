@@ -1,0 +1,49 @@
+.wrap{
+    width: 1200px;
+    height: 800px;
+    margin: 500px;
+}
+.golova{
+    width: 200px;
+    height: 140px;
+    border-radius: 50%;
+    border: 1px solid #e3ad74;
+    background-color: #e3ad74;
+}
+.telo{
+    margin-top: -170px;
+    margin-left: 22px;
+    width: 150px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: #e3ad74;
+    z-index: -2;
+}
+.morda{
+    margin-top: -240px;
+    margin-left: 37px;
+    width: 120px;
+    height: 70px;
+    background-color: #f6d2a5;
+    border-radius: 50%;
+    z-index: -1;
+}
+.uxo{
+    width: 40px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #f6d2a5;
+    margin-top: -100px;
+}
+.luna:nth-child(4) .uxo{
+
+}
+.uxo2{
+    width: 60px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #e3ad74;
+}
+
+
+
